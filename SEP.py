@@ -1,5 +1,6 @@
 import copy
 
+
 class SEP():
 	def __init__(self) -> None:
 		self.septables={}
